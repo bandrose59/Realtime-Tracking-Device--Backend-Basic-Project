@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+
+# Build outputs
+dist/
+build/
+
+
+# Package lock
+package-lock.json
+yarn.lock
