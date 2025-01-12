@@ -14,8 +14,8 @@ Tech Stack
 ________________________________________
 Installation
 1.	Clone the repository:
-    git clone https://github.com/yourusername/realtime-device-track.git
-    cd realtime-device-track
+    git clone https://github.com/bandrose59/Realtime-Tracking-Device--Backend-Basic-Project.git
+    cd Realtime Device-Backend
 3.	Install dependencies:
     npm install
 4.	Create a directory for static files: Ensure your static files (HTML, CSS, JavaScript) are placed in the public folder.
