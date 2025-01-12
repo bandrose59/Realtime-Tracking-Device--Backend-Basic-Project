@@ -3,15 +3,21 @@ A Node.js application that provides real-time device tracking using Express.js, 
 Features
 
 •	Real-time location tracking using Socket.io.
+
 •	Interactive map integration with Leaflet.js.
+
 •	Node.js server powered by Express.js.
+
 •	Mobile-friendly interface.
 ________________________________________
 Tech Stack
 
 •	Backend: Node.js, Express.js
+
 •	Frontend: HTML, CSS, JavaScript, Leaflet.js
+
 •	Real-time Communication: Socket.io
+
 •	Mapping: Leaflet.js with OpenStreetMap
 ________________________________________
 Installation
